@@ -6,6 +6,14 @@ Este projeto é uma solução de automação inteligente para o monitoramento de
 
 O dashboard permite que o usuário explore os dados da última semana de forma dinâmica, aplicando filtros por localidade e dia para obter insights detalhados sobre a situação das queimadas no país.
 
+## Integrantes do Grupo
+
+- **Paulo Carvalho Ruiz Borba** (RM554562)
+- **Herbertt Di Franco Marques** (RM556640)
+- **Lorena Bauer Nogueira** (RM555272)
+
+---
+
 ### Funcionalidades Principais
 
 -   **Dashboard Interativo:** Uma interface web amigável para visualizar e filtrar os dados.
