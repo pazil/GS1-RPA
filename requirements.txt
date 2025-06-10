@@ -1,0 +1,8 @@
+pandas==2.3.0
+requests==2.32.4
+matplotlib==3.10.3
+seaborn==0.13.2
+beautifulsoup4==4.13.4
+lxml==5.4.0
+pyarrow==20.0.0
+streamlit
