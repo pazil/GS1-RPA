@@ -81,4 +81,4 @@ Você também pode executar o pipeline completo de forma silenciosa (sem a inter
 
 ```bash
 python main.py
-``` 
+```
